@@ -38,7 +38,7 @@ export default function App() {
   const { dark, setDark } = useDarkMode();
   const [cvLang, setCvLang] = useState<"pt" | "en">("pt");
 
-  // Edita aqui com seus links
+  
   const PROFILE = useMemo(
     () => ({
       name: "Enzo Perez Morais de Jesus",
@@ -63,7 +63,7 @@ export default function App() {
     []
   );
 
-  // Edita aqui com seus projetos
+  
   const projects: Project[] = useMemo(
     () => [
       {
@@ -86,7 +86,7 @@ export default function App() {
     []
   );
 
-  // Edita aqui com sua experiência
+  
   const experience: Experience[] = useMemo(
     () => [
       {
