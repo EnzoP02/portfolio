@@ -49,7 +49,7 @@ export default function App() {
       email: "enzopmjmorais@gmail.com",
       github: "https://github.com/EnzoP02",
       linkedin: "https://www.linkedin.com/in/enzo-perez-morais/",
-      cv: "#", // pode apontar para um PDF no repo
+      cv: "#", 
     }),
     []
   );

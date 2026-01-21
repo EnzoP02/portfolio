@@ -489,7 +489,7 @@ h1{
 
 .roleSubtitle {
   display: block;
-  font-size: 0.65em; /* menor que o título */
+  font-size: 0.65em; 
   font-weight: 500;
   opacity: 0.85;
   margin-top: 6px;
